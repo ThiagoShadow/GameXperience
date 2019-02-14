@@ -1,0 +1,32 @@
+* {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    font-family: 'Snap ITC';
+}
+
+body {  
+    background-image: url(Imagens/bg.jpg);
+    background-attachment: local;
+}
+
+h1 {
+    color: #8A0808;
+    text-align: center;
+    width: 100%;
+    font-size: 400%;
+}
+
+p {
+    color: #8A0808;
+    width: 100%;
+    font-family: 'Arial';
+    font-size: 20px;
+    text-align: justify;
+}
+
+@media screen and (min-width: 90px) and (max-width: 575px) {
+    h1 {
+        font-size: 300%;
+    }
+}

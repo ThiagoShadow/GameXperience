@@ -1,0 +1,11 @@
+nav {
+    margin-top: 1%;
+    margin-bottom: 1%;
+    background-color: #0B0B3B;
+}
+nav a {
+    font-size: 25px;
+}
+nav button {
+    color: #0B0B3B;
+}
